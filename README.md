@@ -1,7 +1,11 @@
-# cqder.github.io
+# 个人地图
 
-### csdn:[虎白糖](http://my.csdn.net/qq_36118959)
+- csdn:[虎白糖](http://my.csdn.net/qq_36118959)
+- QQ: 283094846
+- 邮箱:  cqder.tukp@Gmail.com
 
-|项目|时间|其他|
+***
+
+|最近目标|计划时间|备注|
 ---|---|---
-Java|40天|无
+Java基础夯实|40天|<疯狂Java讲义>
