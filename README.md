@@ -3,6 +3,8 @@
 - csdn : [虎白糖](http://my.csdn.net/qq_36118959)
 - QQ : 283094846
 - 邮箱 : cqder.tukp@Gmail.com
+- 微博 : 暂无
+- 公众号 : 暂无
 
 ***
 |最近目标|计划时间|备注|
